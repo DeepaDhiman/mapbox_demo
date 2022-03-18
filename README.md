@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Application Layout
+
+1. Screen 1 【 List of all Address along with there location 】.
+![Screen 1](./public/assets/screen_1.png)
+
+2. Screen 2 【 Location will be pointed on the Map 】.
+![Screen 1](./public/assets/screen_2.png)
+
+3. Screen 3 【 Location name will apper on the hover 】.
+![Screen 1](./public/assets/screen_3.png)
